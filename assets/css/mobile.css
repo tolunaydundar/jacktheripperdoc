@@ -1,0 +1,29 @@
+@media screen and (max-width: 768px) {
+    nav#nav-bar {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    nav#nav-bar h1#header-title {
+        margin: 1rem 0;
+    }
+
+    nav#nav-bar ul#nav-link-list {
+        width: 100%;
+    }
+
+    section#home h2 {
+        font-size: 1.5rem;
+    }
+
+    section#home form#form {
+        width: 90%;
+    }
+
+    section#home form#form label {
+        font-size: 1.5rem;
+        width: 100%;
+    }
+}
