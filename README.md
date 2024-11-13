@@ -1,10 +1,10 @@
-# Jack THE Ripperdoc Fictional Landing Page
+# Jack THE Ripperdoc - Fictional Landing Page
 
-Built using only HTML and CSS.
+Built using plain HTML and CSS.
 
 ## Live Preview
 
-Click [here](temp) to see the project on [GitHub Pages](https://pages.github.com/).
+Click [here](https://tolunaydundar.github.io/jacktheripperdoc/) to see the project on [GitHub Pages](https://pages.github.com/).
 
 ## License
 
